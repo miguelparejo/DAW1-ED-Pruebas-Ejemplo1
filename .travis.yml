@@ -18,7 +18,7 @@ jdk:
 script:
 #  - ./gradlew build test jacocoTestReport
   - gradle test
-  - echo "Hola, soy José Antonio. Hoy es día 10 de Febrero"
+  - echo "Hola, soy José. Hoy es día 10 de Febrero"
   - ls build
   - gradle run
 ##  - ./gradlew sonarqube  #  -Dsonar.organization=jamj2000-github   -Dsonar.host.url=https://sonarcloud.io 
